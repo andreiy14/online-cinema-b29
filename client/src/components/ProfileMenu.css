@@ -1,0 +1,39 @@
+#login {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+    
+    background: #CD2E71;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+  }
+  
+  #cancelBtnn {
+    margin-top: 120px;
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    font-family: Product Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+
+    
+    background: transparent;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+  }
